@@ -37,7 +37,7 @@ The password for the next level is stored in the file `data.txt` and is the **on
 
    ➔ This shows all lines that appear **only once**.
 
-3. IOnce you find the unique line, that’s your password.
+3. Once you find the unique line, that’s your password.
 
 ---
 
